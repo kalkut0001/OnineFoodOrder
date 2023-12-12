@@ -5,7 +5,7 @@
 
 ## Installation & Run
 
-1. clone our Project into your local machine.
+1. Clone this Project into your local machine.
 2. Open Your Intellij IDE
 3. Goto File -> New ->open ->Go to path -> Select the project -> Finish
 4. All done .
